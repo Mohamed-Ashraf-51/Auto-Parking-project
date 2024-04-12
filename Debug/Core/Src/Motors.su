@@ -1,0 +1,3 @@
+../Core/Src/Motors.c:9:6:Motor_ForWard	16	static
+../Core/Src/Motors.c:17:6:Motor_BackWard	16	static
+../Core/Src/Motors.c:26:6:Motor_Stop	8	static
